@@ -1,0 +1,21 @@
+body{
+    background-color: #F6F1F1;
+    font-family: 'Lucida Sans';
+}
+
+.navbar{
+    background-color: #146C94;
+}
+
+.p-4{
+    background-color: #19A7CE;
+}
+
+footer{
+    background-color: #146C94;
+}
+
+.form-group{
+    background-color: antiquewhite;
+    color:#748383 ;
+}
